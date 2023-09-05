@@ -1,3 +1,4 @@
 first line for coding 
 
-version v1.0 is now ready to push remote repo
+version v1.0 is now ready to push remote repogit pull origin main
+git 
